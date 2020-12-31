@@ -1,0 +1,20 @@
+{
+	"todos": [
+		{
+			"text": "Create simple vue app",
+			"isCompleted": true
+		},
+		{
+			"text": "Use localstorage",
+			"isCompleted": false
+		},
+		{
+			"text": "Connect Sockets",
+			"isCompleted": false
+		},
+		{
+			"text": "add images",
+			"isCompleted": false
+		}
+	]
+}
